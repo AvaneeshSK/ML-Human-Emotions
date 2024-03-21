@@ -25,3 +25,4 @@ Evaluation :
     confusion matrix
     accuracy_score
 
+Excellent Scores
